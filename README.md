@@ -24,6 +24,7 @@
 | http://www.hanbit.co.kr/realtime/books/new_webbook_list.html | 한글 |
 | [https://www.oreilly.com/programming/free/](https://www.oreilly.com/programming/free/) | 영어 |
 | [http://it-ebooks.info/](http://it-ebooks.info/) | 영어 |
+| [https://inventwithpython.com/](https://inventwithpython.com/) | 영어 |
 
 ### 이 사이트 내용 수정
 
