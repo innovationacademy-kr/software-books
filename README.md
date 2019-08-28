@@ -25,12 +25,6 @@
 | [https://www.oreilly.com/programming/free/](https://www.oreilly.com/programming/free/) | 영어 |
 | [http://it-ebooks.info/](http://it-ebooks.info/) | 영어 |
 
-
-
-* https://ridibooks.com/category/free-books/2220
-* https://github.com/vhf/free-programming-books
-* https://bookboon.com/en/it-programming-ebooks
-
 ### 이 사이트 내용 수정
 
 찾는 책이 목록에 없어 추가하시길 원하신다면,
